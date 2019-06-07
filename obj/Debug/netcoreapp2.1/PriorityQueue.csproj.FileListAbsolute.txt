@@ -1,0 +1,11 @@
+/Users/brianpolanco/Desktop/PriorityQueue/bin/Debug/netcoreapp2.1/PriorityQueue.deps.json
+/Users/brianpolanco/Desktop/PriorityQueue/bin/Debug/netcoreapp2.1/PriorityQueue.runtimeconfig.json
+/Users/brianpolanco/Desktop/PriorityQueue/bin/Debug/netcoreapp2.1/PriorityQueue.runtimeconfig.dev.json
+/Users/brianpolanco/Desktop/PriorityQueue/bin/Debug/netcoreapp2.1/PriorityQueue.dll
+/Users/brianpolanco/Desktop/PriorityQueue/bin/Debug/netcoreapp2.1/PriorityQueue.pdb
+/Users/brianpolanco/Desktop/PriorityQueue/obj/Debug/netcoreapp2.1/PriorityQueue.csprojAssemblyReference.cache
+/Users/brianpolanco/Desktop/PriorityQueue/obj/Debug/netcoreapp2.1/PriorityQueue.csproj.CoreCompileInputs.cache
+/Users/brianpolanco/Desktop/PriorityQueue/obj/Debug/netcoreapp2.1/PriorityQueue.AssemblyInfoInputs.cache
+/Users/brianpolanco/Desktop/PriorityQueue/obj/Debug/netcoreapp2.1/PriorityQueue.AssemblyInfo.cs
+/Users/brianpolanco/Desktop/PriorityQueue/obj/Debug/netcoreapp2.1/PriorityQueue.dll
+/Users/brianpolanco/Desktop/PriorityQueue/obj/Debug/netcoreapp2.1/PriorityQueue.pdb
